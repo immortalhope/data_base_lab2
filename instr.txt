@@ -1,3 +1,0 @@
-flyway -configFiles="conf\PostgreSQL.conf" baseline
-
-flyway -configFiles="conf\PostgreSQL.conf" migrate
